@@ -9,13 +9,13 @@ from ipc_parser import format_ipc_symbol, ipc_main_group_prefix, normalize_ipc_k
 
 RESULT_COLUMNS = [
     "対象データ",
-    "from-version",
-    "to-version",
-    "from-symbol",
-    "modification",
-    "to-symbol",
-    "modification2",
-    "to-symbolの内容",
+    "改正前のバージョン",
+    "改正後のバージョン",
+    "改正前の分類記号",
+    "改正前のカテゴリ",
+    "改正後の分類記号",
+    "改正後のカテゴリ",
+    "改正後の標題",
 ]
 
 MODIFICATION_LABELS = {
@@ -101,12 +101,13 @@ def build_result(target: pd.DataFrame, old: pd.DataFrame, latest: pd.DataFrame,
             to_symbol = _value(revision_row, destination) or latest_symbol
             rows.append({
                 "対象データ": target_row[target_id],
-                "from-version": _value(revision_row, from_version),
-                "to-version": _value(revision_row, to_version),
-                "from-symbol": format_ipc_symbol(_value(revision_row, from_symbol)),
-                "modification": _modification(_value(revision_row, old_attribute), MODIFICATION_LABELS),
-                "to-symbol": format_ipc_symbol(to_symbol),
-                "modification2": _modification(_value(revision_row, destination_attribute), MODIFICATION2_LABELS),
-                "to-symbolの内容": _value(latest_row, latest_meaning),
+                "改正前のバージョン": _value(revision_row, from_version),
+                "改正後のバージョン": _value(revision_row, to_version),
+                "改正前の分類記号": format_ipc_symbol(_value(revision_row, from_symbol)),
+                "改正前のカテゴリ": _modification(_value(revision_row, old_attribute), MODIFICATION_LABELS),
+                "改正後の分類記号": format_ipc_symbol(to_symbol),
+                "改正後のカテゴリ": _modification(_value(revision_row, destination_attribute), MODIFICATION2_LABELS),
+                "改正後の標題": _value(latest_row, latest_meaning),
             })
-    return pd.DataFrame(rows, columns=RESULT_COLUMNS)
+    result = pd.DataFrame(rows, columns=RESULT_COLUMNS)
+    return result.drop_duplicates(subset=["改正後の分類記号"], keep="first").reset_index(drop=True)

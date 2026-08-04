@@ -106,13 +106,13 @@ def test_abolished_ipc_builds_rows_for_all_replacement_symbols():
         flagged, old, latest, "改正前記号", "IPC記号", "改正前記号", "id", "ipc"
     )
     assert result.columns.tolist() == [
-        "対象データ", "from-version", "to-version", "from-symbol", "modification",
-        "to-symbol", "modification2", "to-symbolの内容",
+        "対象データ", "改正前のバージョン", "改正後のバージョン", "改正前の分類記号", "改正前のカテゴリ",
+        "改正後の分類記号", "改正後のカテゴリ", "改正後の標題",
     ]
-    assert result["to-symbol"].tolist() == ["H10P 76/00", "H10P 76/20"]
-    assert result["to-symbolの内容"].tolist() == ["マスクの製造または処理", "有機材料からなるマスク"]
-    assert result["modification"].tolist() == ["d：廃止", "d：廃止"]
-    assert result["modification2"].tolist() == ["n：新設", "n：新設"]
+    assert result["改正後の分類記号"].tolist() == ["H10P 76/00", "H10P 76/20"]
+    assert result["改正後の標題"].tolist() == ["マスクの製造または処理", "有機材料からなるマスク"]
+    assert result["改正前のカテゴリ"].tolist() == ["d：廃止", "d：廃止"]
+    assert result["改正後のカテゴリ"].tolist() == ["n：新設", "n：新設"]
 
 
 def test_only_newest_revision_is_shown_for_each_symbol():
@@ -133,9 +133,9 @@ def test_only_newest_revision_is_shown_for_each_symbol():
     flagged = add_match_flags(normalized, old, latest, "from-symbol", "IPC記号")
     result = build_result(flagged, old, latest, "from-symbol", "IPC記号", None, "id", "ipc")
     assert len(result) == 1
-    assert result.loc[0, "to-version"] == "20250101"
-    assert result.loc[0, "from-symbol"] == "H01L 27/142"
-    assert result.loc[0, "to-symbol"] == "H10F 19/50"
+    assert result.loc[0, "改正後のバージョン"] == "20250101"
+    assert result.loc[0, "改正前の分類記号"] == "H01L 27/142"
+    assert result.loc[0, "改正後の分類記号"] == "H10F 19/50"
 
 
 def test_main_group_input_expands_all_matching_revisions():
@@ -156,4 +156,25 @@ def test_main_group_input_expands_all_matching_revisions():
     assert errors.empty
     flagged = add_match_flags(normalized, old, latest, "from-symbol", "IPC記号")
     result = build_result(flagged, old, latest, "from-symbol", "IPC記号", None, "id", "ipc")
-    assert result["to-symbol"].tolist() == ["H10F 99/00", "H10F 19/50", "H10F 39/10"]
+    assert result["改正後の分類記号"].tolist() == ["H10F 99/00", "H10F 19/50", "H10F 39/10"]
+
+
+def test_duplicate_destination_symbols_are_shown_once():
+    target = pd.DataFrame({"id": ["A", "B"], "ipc": ["H01L 27/140", "H01L 27/142"]})
+    old = pd.DataFrame({
+        "from-version": ["20240101", "20240101"],
+        "to-version": ["20250101", "20250101"],
+        "from-symbol": ["H01L0027140000", "H01L0027142000"],
+        "modification": ["d", "d"],
+        "to-symbol": ["H10F0019500000", "H10F0019500000"],
+        "modification2": ["n", "n"],
+    })
+    latest = pd.DataFrame({"IPC記号": ["H10F 19/50"], "説明": ["移行先"]})
+    normalized, _ = normalize_column(target, "ipc")
+    flagged = add_match_flags(normalized, old, latest, "from-symbol", "IPC記号")
+
+    result = build_result(flagged, old, latest, "from-symbol", "IPC記号", None, "id", "ipc")
+
+    assert len(result) == 1
+    assert result.loc[0, "対象データ"] == "A"
+    assert result.loc[0, "改正後の分類記号"] == "H10F 19/50"
