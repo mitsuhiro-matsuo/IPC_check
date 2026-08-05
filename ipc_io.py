@@ -14,7 +14,22 @@ def read_table(uploaded_file: object) -> pd.DataFrame:
     name = getattr(uploaded_file, "name", "").lower()
     if name.endswith((".xlsx", ".xlsm", ".xltx", ".xltm")):
         return pd.read_excel(uploaded_file, dtype=str, engine="openpyxl")
+    if name.endswith(".xls"):
+        return pd.read_excel(uploaded_file, dtype=str, engine="xlrd")
     return pd.read_csv(uploaded_file, dtype=str)
+
+
+def read_target_table(uploaded_file: object) -> pd.DataFrame:
+    """Read a target file without treating its first row as a header."""
+    name = getattr(uploaded_file, "name", "").lower()
+    if name.endswith((".xlsx", ".xlsm", ".xltx", ".xltm")):
+        frame = pd.read_excel(uploaded_file, dtype=str, header=None, engine="openpyxl")
+    elif name.endswith(".xls"):
+        frame = pd.read_excel(uploaded_file, dtype=str, header=None, engine="xlrd")
+    else:
+        frame = pd.read_csv(uploaded_file, dtype=str, header=None)
+    frame.columns = [f"列{index + 1}" for index in range(frame.shape[1])]
+    return frame
 
 
 def workbook_bytes(sheets: dict[str, pd.DataFrame]) -> bytes:
