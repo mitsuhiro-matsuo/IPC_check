@@ -1,4 +1,4 @@
-# IPC・FI改正状況チェック Streamlit版
+# IPC・FI・CPC改正状況チェック Streamlit版
 
 ## 起動
 
@@ -7,7 +7,7 @@ python -m pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-画面は `IPC` と `FI` のタブに分かれています。各タブは対象ファイル、列設定、処理結果、ダウンロードを独立して保持します。入力ファイルは変更せず、結果は新しい `.xlsx` としてダウンロードします。
+画面は `IPC`、`FI`、`CPC` のタブに分かれています。各タブは対象ファイル、列設定、処理結果、ダウンロードを独立して保持します。入力ファイルは変更せず、結果は新しい `.xlsx` としてダウンロードします。
 
 ## IPC改正情報の管理
 
@@ -33,6 +33,14 @@ FIタブでは、対象FIを含む `.xlsx`、`.xlsm`、`.xls`、または `.csv`
 登録済みのFI改正情報は `data/fi_revisions`、FI_DATは `data/latest_fi` に保存され、IPCの共有データとは混在しません。FI結果は1つの一覧で表示され、対象データ、改正時期、改正種別、改正前FI、改正後FI、改正前タイトル、改正後タイトルを確認できます。
 
 FI_DATでは、展開記号や分冊識別記号を含むFI記号（例: `A01B 3/04 A`、`A01B 69/00 303A`）を保持して照合します。
+
+## CPC改正情報の管理
+
+CPCタブのサイドバーにある「CPC公式改正情報を確認」を押すと、Cooperative Patent Classificationの[Archive](https://www.cooperativepatentclassification.org/Archive)と[Bulk Data](https://www.cooperativepatentclassification.org/cpcSchemeAndDefinitions/bulk)から、取得可能な改正情報を検索します。2014-06以降の改正情報が対象です。表示された未登録の改正時期を複数選択して「選択したCPC改正情報を取得・登録」を押すと、公式ZIPをダウンロードして `data/cpc_revisions` に保存します。
+
+最新版はBulk DataのRevision Concordance Listを使い、旧CPC記号と移行先CPC記号の対応を登録します。アーカイブ版はCompilation of Changesを使い、その版で変更されたCPC記号と標題を登録します。公式サイトから保存したZIPは「CPC改正情報（公式ZIP）」からも手動登録できます。ファイル名には改正時期を示す `YYYYMM` を含めてください。
+
+CPC対象ファイルでは、登録済みの改正情報に加えて任意の公式ZIPを一時的に選択できます。改正前CPCまたは改正後CPCのいずれかに一致すると `CPC改正情報一致` を表示します。結果には改正時期、種別、新旧CPC、標題、最新CPCとの一致結果を出力します。改正情報が未登録でも、従来どおりCPC_DATによる最新CPC照合を実行できます。
 
 VBAの仕様に合わせて、IPCは先頭4文字を年、`/` より前を4文字にゼロ埋め、`/` より後を6文字に右ゼロ埋めします。形式不正の行は「変換エラー」タブで確認できます。
 

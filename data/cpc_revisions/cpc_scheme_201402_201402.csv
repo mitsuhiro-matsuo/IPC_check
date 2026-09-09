@@ -1,0 +1,870 @@
+﻿改正時期,改正種別,改正前CPC,改正後CPC,改正前標題,改正後標題,資料種別
+2014.02,D,A61M 2001/0001,,"Containers for suction drainage, e.g. rigid containers",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0005,,"with means for emptying the suction container, e.g. by interrupting suction",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0007,,Emptying the suction container without interrupting suction,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0015,,Mechanical means for preventing flexible containers from collapsing when vacuum is applied inside,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0017,,"Bag or liner in a rigid container, with suction applied to both",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0023,,Suction drainage systems   containers therefor A61M1/0001 ; suction-irrigation systems A61M1/0058,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0025,,Sensors or indicators,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0027,,Vacuum pressure indicators,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0029,,Flow indicators,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0031,,"Suction control   A61M1/0013 , A61M1/0041 take precedence",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0033,,by changing the size of a vent,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0035,,"by changing the section of the line, e.g. flow regulating valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0039,,Handpieces   aspiration tips A61M1/008,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0041,,with means for varying suction manually   suction control A61M1/0031,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0043,,by changing the section of the line,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0045,,by deformation of the the fluid passage,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0049,,Means preventing overflow or contamination of the pumping systems   combined with rigid drainage containers A61M1/0001,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/005,,"Valves with moving parts, e.g. float valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0052,,"Filtering, sterilising or disinfecting the exhaust air",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0054,,by heat,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0058,,Suction-irrigation systems   aspiration tips supplying fluids A61M1/0084 ; combined with tracheal tubes A61M16/0463,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/006,,"Determination of loss of body fluids due to suction-irrigation, e.g. during surgery",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0066,,"Suction pumps   A61M1/0003 , A61M1/0011 , A61M1/0023 , A61M1/10 take precedence",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0068,,"Piston pumps, e.g. syringes",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/007,,"the barrel serving as aspiration container, e.g. in a breast pump",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0072,,"Membrane pumps, e.g. bulbs",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/008,,Drainage tubes; Aspiration tips,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0082,,rotating,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0086,,"Connectors therefor, e.g. detachable from handpiece",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0088,,"with a seal, e.g. to stick around a wound for isolating the treatment area",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/009,,having pumping means on suction site,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0092,,having venting means on or near the tip,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0094,,having means for processing the drained fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0096,,Draining devices provided with means for releasing antimicrobial or gelation agents in the drained fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0098,,Draining devices provided with means for filtering out the harmless water content before discarding the drainage container,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/01,,"Blood pumps   Artificial hearts   Devices for mechanical circulatory assistance, e.g. intra-aortic balloon pumps   artificial heart valves A61F2/24 ; heart stimulation A61H31/00",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/02,,Blood transfusion apparatus   blood infusion by syringes A61M5/14,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0204,,"Blood stirrers, e.g. for defibrination",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0209,,Multiple bag systems for separating or storing blood components,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0213,,with isolated sections of the tube used as additive reservoirs,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0218,,with filters,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0222,,and filter bypass,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0227,,"and means for securing the filter against damage, e.g. during centrifugation",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0231,,"with gas separating means, e.g.air outlet through microporous membrane or gas bag",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0236,,"with sampling means, e.g. sample bag or sampling port",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/025,,Means for agitating or shaking blood containers   A61M1/0245 takes precedence; shaking in general B01F11/00,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0254,,"with a support plate moving only in one plane, e.g. horizontal",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0272,,"Apparatus for treatment of blood or blood constituents prior to or for conservation, e.g. freezing, drying or centrifuging",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0277,,"Frames constraining or supporting bags, e.g. during freezing",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0286,,"Handling multiple blood product units, e.g. storage cabinets, blood bank administration",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/029,,"Separating blood components present in distinct layers in a container, not otherwise provided for   containers for storing blood or blood components A61J1/00T ; sampling or analysing blood by separating blood components G01N33/491",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/0295,,Blood container and a solution container being compressed simultaneously by the same means,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/03,,"Reciprocating systems, alternately withdrawing blood from and returning it to the patient, e.g. single-lumen-needle dialysis or single needle systems for haemofiltration, pheresis",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/06,,Milking pumps   feeding-bottles A61J9/00,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/062,,Pump accessories,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/064,,Suction cups,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/066,,Inserts therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/068,,"having means for simultaneous feeding, e.g. with rubber nipple for feeding",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1001,,General aspects of blood pumps irrespective of pump type,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1003,,skeletal muscle-powered,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1005,,with means for making a blood flow pulsatile   pulsatile dialysate flow A61M2001/1649 ; moving filter membranes used for pumping A61M2001/267,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1006,,"Blood pumps incorporated within another functional device, e.g. an oxygenator",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1008,,Tubes   Connections therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/101,,"Non-positive displacement pumps, e.g. impeller, centrifugal, vane pumps",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1012,,Constructional features thereof,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1013,,Types of bearings,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1015,,Magnetic bearings,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1017,,Hydrodynamic bearings,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1018,,with occluders preventing backflow,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/102,,having a purge fluid supply,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1022,,using filtered blood as purge fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1024,,having a collapsible rotor,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1025,,Blood sealings between rotational parts,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1027,,"with a radial sealing face, e.g. sealing by axial forces",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1029,,Drive systems therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1031,,using a motor with canned rotor,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1032,,with hydraulic or pneumatic driving means,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1034,,using rotating cables for driving,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1036,,using rotating magnets for driving,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1037,,"Pumps having flexible elements, e.g. with membranes, diaphragms, or bladder pumps",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1039,,Peristaltic pumps,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1041,,Linear,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1043,,Constructional features,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1044,,Compliance chamber containing a gas or liquid other than blood to compensate volume variations of a blood chamber,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1046,,"Drive systems therefor, e.g. mechanically, electromechanically or skeletal muscle drive means",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1048,,characterised by way of converting the movement,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1049,,with means converting the rotation of a motor into a translational movement of the flexible element,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1051,,"the axis of both movements being parallel, e.g. roller screw actuator, cylindrical cam transmission",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1053,,using non-rotary electrical means,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1055,,"Electromagnetic means, e.g. solenoids, ferro-fluids, magnetostrictive means",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1056,,"Thermo-electric means, e.g. shaped memory alloys",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1058,,Piezoelectric means,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/106,,using hydraulic or pneumatic means,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1062,,"with application of vacuum at the blood pump, e.g. to accelerate filling",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1063,,Diastole or systole switching by stopping or reversing a hydraulic or pneumatic pump operating at a much higher cyclical speed than the heart rate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1065,,Diastole or systole switching by valve means between the blood pump and the hydraulic or pneumatic energy source,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/107,,"Pulsating membrane pumps without valves, e.g. for counter pulsation, extra-arterial balloon pumps",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1072,,"Intra-arterial balloon pumps, e.g. intra-aortic",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1074,,Intra-ventrical,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1075,,the pump membrane acting as inlet valve,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1077,,the pump having a compliance chamber containing a gas or liquid other than blood to compensate volume variations of a blood chamber,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1079,,Constructional features not provided for in groups A61M2001/1039 to A61M2001/1077,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1082,,High-frequency pumps,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1084,,"Venturi, jet pumps",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1087,,"Active valves for blood pumps or artificial hearts, i.e. using an external force for actuating the valve",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1089,,where the valve is formed by a flexible tube element which is clamped for restricting the flow,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1091,,by clamping a flexible tube element,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1093,,"Non actuated valves, e.g. non return valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1094,,"flexible, resilient, e.g. flap valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1096,,"Passive valves for blood pumps or artificial hearts, i.e. valves actuated by the fluid",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1098,,"Valves having flexible or resilient parts, e.g. flap valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/12,,"implantable into the body   not used, see subgroups",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/122,,"Heart assist devices, i.e. for assisting an ailing heart, using additional pumping means in the blood circuit",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/125,,"intravascular, i.e. introduced or implanted in an existing blood vessel",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/14,,"Dialysis systems   Artificial kidneys   Blood oxygenators;  Reciprocating systems for treatment of body fluids, e.g. single needle systems for haemofiltration, pheris   haemofiltration using non reciprocating systems A61M1/34 ; extracorporeal blood circuit aspects A61M1/36    ;   processes of separation using semi-permeable membranes B01D61/00 ; semi-permeable membranes characterised by the material, manufacturing processes therefor B01D71/00",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/16,,"with membranes    A61M1/30 takes precedence; membranes per se B01D69/00 , B01D71/00",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1601,,Control or regulation,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1603,,Regulation parameters,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1605,,Physical characteristics of the dialysate fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1607,,before use,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1609,,after use,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1611,,Weight of the patient,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1613,,Profiling or modeling,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1615,,using measurements made at different flow rates,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1617,,using measurements made during a temporary variation of a characteristic of the fresh dialysis fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1619,,"Sampled collection of used dialysate, i.e. obviating the need for recovery of whole dialysate quantity for post-dialysis analysis",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1621,,Constructional aspects,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1623,,Disposition of membranes,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1625,,"Dialyser of the outside perfusion type, i.e. blood flow outside hollow membrane fibers or tubes",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1627,,"Dialyser of the inside perfusion type, i.e. blood flow inside hollow membrane fibers or tubes",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1629,,with integral heat exchanger,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1631,,"having non-tubular membranes, e.g. sheets",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1633,,with more than one dialyzer unit,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1635,,with volume chamber balancing devices between used and fresh dialysis fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1637,,containing the whole volume of dialysis fluid used during a treatment session,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1639,,linked by membranes,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1641,,linked by pistons,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1643,,with weighing of fresh and used dialysis fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1645,,"with mechanically linked peristaltic dialysis fluid pumps one upstream, the other one downstream of the dialyser",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1647,,"with flow rate measurement of the dialysis fluid, upstream and downstream of the dialyser",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1649,,with pulsatile dialysis fluid flow,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/165,,with a dialyser bypass on the dialysis fluid line,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1652,,Holding or locking systems for the membrane unit,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1654,,Dialysates therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1656,,Apparatus for preparing dialysates   with regeneration of dialysates A61M1/1696,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/166,,Heating   for sterilisation A61M1/1686,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1662,,with heat exchange between fresh and used dialysate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1664,,with temperature control,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1666,,by dissolving solids,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1668,,Details of containers,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/167,,Flexible packagings for solid concentrates,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1672,,"using membrane filters, e.g. for sterilising the dialysate",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1674,,using UV radiation sources for sterilising the dialysate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1676,,"containing proteins, e.g. albumin",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/168,,Sterilisation or cleaning before or after use   sterilisation of materials in general A61L ; cleaning or sterilisation of membrane modules apart from the machine B01D65/02,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1682,,"both machine and membrane module, i.e. also the module bloodside",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1684,,Checking the module characterisitics before reuse,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/1688,,with recirculation of the sterilising fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/26,,and internal elements  which are moving,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/262,,rotating,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/265,,inducing TAYLOR vortices,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/267,,used for pumping,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/28,,"Peritoneal dialysis;  Other peritoneal treatment, e.g. oxygenation",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/281,,Instillation other than by gravity,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/282,,Operational modes,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/284,,Continuous Flow Peritoneal Dialysis (CFPD),,Scheme XML差分（推定）
+2014.02,D,A61M 2001/288,,Priming,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/301,,Details,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/302,,having a reservoir for withdrawn untreated blood,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/303,,having a reservoir for treated blood to be returned,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/304,,"Treatment chamber used as reservoir, e.g. centrifuge bowl or filter with movable membrane",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/305,,Control of inversion point between collection and reinfusion phase,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/306,,"Pressure control, i.e. using substantially rigid closed, gas buffered or elastic reservoirs",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/307,,Time control,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/308,,"Volume control, e.g. with open or flexible containers, by counting the number of pump revolutions, weighing",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/309,,with TMP pressure increasing substantially continuously during arterial phase,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/32,,Oxygenators without membranes,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/322,,Antifoam   Defoaming,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/325,,Surfactant coating   Improving wettability,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/327,,using catalytic production of oxygen,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/34,,"Filtering material out of the blood by passing it through a membrane, i.e. haemofiltration, diafiltration    A61M1/30 takes precedence; extracorporeal blood circuit aspects A61M1/36",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3403,,Regulation parameters,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3406,,"Physical characteristics of the filtrate, e.g. urea",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/341,,"by measuring the filtrate rate, volume",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3413,,Diafiltration,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3417,,using distinct filters for dialysis and ultrafiltration,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/342,,"Adding solutions to the blood, e.g. substitution solutions   for preventing coagulation A61M1/3672",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3424,,Substitution fluid path,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3427,,"back through the membrane, e.g. by inverted T.M.P.",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3431,,upstream the filter,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3434,,with pre- and postdilution,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3437,,"downstream the filter, e.g. postdilution with filtrate",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3441,,Substitution rate control as a function of the ultrafiltration rate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3444,,in which the collected ultrafiltrate expels an equal volume of substitution fluid from a reservoir,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3448,,by mechanical linked pumps in both ultrafiltrate and substitution flow line,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3451,,the difference in weight between both ultrafiltrate and substitution reservoir being used as control signal,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3455,,Substitution fluids,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3458,,having electrolytes not present in the dialysate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3465,,using dialysate as substitution fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3468,,using treated filtrate as substitution fluid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3472,,with treatment of the filtrate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3475,,with filtrate treatment agent in the same enclosure as the membrane,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3479,,by dialyzing the filtrate,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3482,,"by filtrating the filtrate using another cross-flow filter, e.g. a membrane filter",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3486,,"Biological, chemical treatment, e.g. chemical precipitation   treatment by absorbents",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3489,,by biological cells,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3493,,using treatment agents in suspension,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/36,,"Other treatment of blood in a by-pass of the natural circulatory system, e.g. temperature adaptation, irradiation;  Extra-corporeal blood circuits",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3601,,Extra-corporeal circuits in which the blood fluid passes more than once through the treatment unit,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3603,,in the same direction,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3604,,in opposite directions,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3606,,Arrangements for blood-volume reduction of extra-corporeal circuits,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3607,,Regulation parameters,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3609,,"Physical characteristics of the blood, e.g. haematocrit, urea",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/361,,before treatment,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3612,,after treatment,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3613,,"Reperfusion, e.g. of the coronary vessels, e.g. retroperfusion",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3615,,Cleaning blood contaminated by local chemotherapy of a body part temporarily isolated from the blood circuit,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3616,,Batch-type treatment,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3618,,Magnetic separation,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/362,,"changing physical properties of target cells by binding them to added particles to facilitate their subsequent separation from other cells, e.g. immunoaffinity",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3621,,Extra-corporeal blood circuits   single-needle circuits A61M1/30,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3623,,Defining a parameter indicating the amount of purified blood recirculating in the fistula,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3627,,Degassing devices; Buffer reservoirs; Drip chambers; Blood filters   priming A61M1/3643 ; blood filters for infusion A61M5/165,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3629,,"degassing by changing pump speed, e.g. during priming",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/363,,Degassing by using vibrations,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3632,,Combined venous - cardiotomy reservoirs,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3633,,"Blood component filters, e.g. leukocyte filters",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3635,,Constructional details,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3636,,having a flexible housing,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3638,,with a vapor trap,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3639,,"Blood pressure control, pressure transducers specially adapted therefor",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3641,,Pressure isolators,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3643,,"Priming, rinsing before or after use",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3644,,Mode of operation,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3646,,"Expelling the residual body fluid after use, e.g. back to the body",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3647,,with recirculation of the priming solution,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3649,,using dialysate as priming or rinsing liquid,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/365,,"through membranes, e.g. by inverted transmembrane pressure (TMP)",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3652,,"using gas, e.g. air",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3653,,Interfaces between patient blood circulation and extra-corporal blood circuit,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3656,,Monitoring patency or flow at connection sites   Detecting disconnections,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3658,,Indicating the amount of purified blood recirculating in the fistula or shunt,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3659,,Cannulae pertaining to extracorporeal circulation,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3661,,for hemodialysis,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3666,,"Cardiac or cardiopulmonary bypass, e.g. heart-lung machines",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3667,,with assisted venous return,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3672,,Means preventing coagulation   aspiration tips with anticoagulant delivery A61M1/0084,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3673,,"Anticoagulant coating, e.g. Heparin coating",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3676,,by interposing a liquid layer between blood and air,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3678,,Separation of cells using wave pressure   Manipulation of individual corpuscules,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3681,,by irradiation,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3683,,using photoactive agents,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3684,,embodied in nanostructures,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3686,,by removing photoactive agents after irradiation,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3687,,Chemical treatment   A61M1/3675 takes precedence,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3689,,by biological cells,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3692,,Washing or rinsing blood or blood constituents,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3693,,"using separation based on different densities of components, e.g. centrifuging",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3695,,with sedimentation by gravity,,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3696,,"with means for adding or withdrawing liquid substances during the centrifugation, e.g. continuous centrifugation",,Scheme XML差分（推定）
+2014.02,D,A61M 2001/3698,,Expressing processed fluid out from the turning rotor using another fluid compressing the treatment chamber   Variable volume rotors,,Scheme XML差分（推定）
+2014.02,D,A61M 2003/00,,"Medical syringes, e.g. enemata   Irrigators   A61M5/00 takes precedence; pistons A61M5/315",,Scheme XML差分（推定）
+2014.02,D,A61M 2003/02,,Enemata   Irrigators,,Scheme XML差分（推定）
+2014.02,D,A61M 2003/0204,,"Physical characteristics of the irrigation fluid, e.g. conductivity, turbidity",,Scheme XML差分（推定）
+2014.02,D,A61M 2003/0208,,before use,,Scheme XML差分（推定）
+2014.02,D,A61M 2003/0212,,after use,,Scheme XML差分（推定）
+2014.02,D,A61M 2003/0216,,Pressure,,Scheme XML差分（推定）
+2014.02,D,A61M 2003/022,,Volume   Flow rate,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/00,,Sprayers or atomisers specially adapted for therapeutic purposes   in general B05B ;    aerosol containers B65D83/14,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/001,,Particle size control,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/002,,by flow deviation causing inertial separation of transported particles,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/003,,by passing the aerosol trough sieves or filters,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/006,,operated by applying mechanical pressure to the liquid to be sprayed or atomised,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/007,,syringe- or piston-type sprayers or atomisers,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/008,,"by squeezing, e.g. using a flexible bottle or a bulb",,Scheme XML差分（推定）
+2014.02,D,A61M 2011/04,,"operated by the vapour pressure of the liquid to be sprayed or atomised    air-humidification, e.g. ""room humidifiers"" F24F6/00",,Scheme XML差分（推定）
+2014.02,D,A61M 2011/041,,using heaters,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/042,,electrical,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/044,,with electrodes immersed in the liquid,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/045,,"using another liquid as heat exchanger, e.g. bain-marie",,Scheme XML差分（推定）
+2014.02,D,A61M 2011/047,,by exothermic chemical reaction,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/048,,"with a flame, e.g. using a burner",,Scheme XML差分（推定）
+2014.02,D,A61M 2011/06,,of the injector type,,Scheme XML差分（推定）
+2014.02,D,A61M 2011/065,,using steam as driving gas,,Scheme XML差分（推定）
+2014.02,D,A61M 2013/00,,"Insufflators for therapeutic or disinfectant purposes,  i.e. devices for blowing a gas, powder or vapour into the body   hand-held units in which gas flow is produced by muscular energy at the moment of use B05B11/062",,Scheme XML差分（推定）
+2014.02,D,A61M 2013/003,,"Blowing gases other than for carrying powders, e.g. for inflating, dilating or rinsing",,Scheme XML差分（推定）
+2014.02,D,A61M 2013/006,,with gas recirculation,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/00,,Inhalators    drug delivery in endotracheal tubes A61M16/04,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0001,,Details of inhalators   Constructional features thereof  NOT USED,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0003,,with means for dispensing more than one drug,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0005,,with means for agitating the medicament,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0006,,using rotating means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0008,,rotating by air flow,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/001,,using ultrasonic means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0011,,"with microcapsules, e.g. several in one dosis",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0013,,with inhalation check valves,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0015,,"upstream of the dispenser, i.e. not traversed by the product",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0016,,"downstream of the dispenser, i.e. traversed by the product",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0018,,with exhalation check valves,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/002,,with air flow regulating means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0021,,Mouthpieces therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0023,,retractable,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0025,,with caps,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0026,,Hinged caps,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0028,,"using prepacked dosages, one for each application, e.g. capsules to be perforated or broken-up",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/003,,"using capsules, e.g. to be perforated or broken-up",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0031,,"by bursting or breaking the package, i.e. without cutting or piercing",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0033,,Details of the piercing or cutting means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0035,,Piercing means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0036,,hollow piercing means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0038,,cutting means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/004,,with fixed piercing or cutting means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0041,,with movable piercing or cutting means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0043,,"Non-destructive separation of the package, e.g. peeling",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0045,,"using multiple prepacked dosages on a same carrier, e.g. blisters",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0046,,characterised by the type of carrier,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0048,,"Dosages are arranged in a plane, e.g. on diskettes",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/005,,Dosages are arranged on a cylindrical surface,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0051,,"Dosages are arranged on a tape, e.g. strips",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0053,,characterised by the type or way of disposal,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0055,,the used dosages being coiled,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0056,,the used dosages being crushed,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0058,,the used dosages being cut from the carrier,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/006,,the used dosages being discarded out of the inhaler's housing,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0061,,using prepacked dosages having an insert inside,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0063,,Storages for pre-packed dosages,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0065,,Inhalators with dosage or measuring devices   A61M15/0028 takes precedence; dosage devices incorporated in aerosol cans B65D83/52,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0066,,with means for varying the dose size,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0068,,"Indicating or counting the number of dispensed doses, or the number of remaining doses",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/007,,Mechanical counters,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0071,,having a display or indicator,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0073,,on a ring,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0075,,on a disc,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0076,,on a drum,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0078,,on a strip,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/008,,Electronic counters,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0081,,Locking means,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0083,,Timers,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0086,,Inhalation chambers,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0088,,with variable volume,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0091,,mechanically breath-triggered,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0093,,"without arming or cocking, e.g. acting directly on the delivery valve",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0095,,Preventing manual activation in absence of inhalation,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0096,,Hindering inhalation before activation of the dispenser,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/0098,,Activated by exhalation,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/02,,"with activated or ionised  fluids, e.g. electrohydrodynamic (EHD) or electrostatic devices    Ozone-inhalators  with radioactive tagged particles",,Scheme XML差分（推定）
+2014.02,D,A61M 2015/025,,Bubble jet droplet ejection devices,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/08,,Inhaling devices inserted into the nose,,Scheme XML差分（推定）
+2014.02,D,A61M 2015/085,,Fixing means therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0006,,with means for creating vibrations in patient's airways,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0009,,"with subatmospheric pressure, e.g. during expiration",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0012,,by Venturi means,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0057,,Pumps therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/006,,Tidal volume membrane pumps,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0063,,Compressors,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0066,,Blowers or centrifugal pumps,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0069,,"their speed being controlled by respiratory parameters, e.g. by inhalation",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0081,,Bag or bellow in a bottle,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0084,,"self-reinflatable by elasticity, e.g. resuscitation squeeze bags",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0087,,"Environmental safety or protection means, e.g. preventing explosion",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/009,,Removing used or expired gases or anaesthetic vapours,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0093,,"by adsorption, absorption or filtration",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/02,,Valves specially adapted to medical respiratory devices,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0404,,with means for selective or partial lung respiration,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0406,,implanted flow modifiers,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0409,,with means for closing the oesophagus,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0415,,with access means to the stomach,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0418,,"with integrated means for changing the degree of curvature, e.g. for easy intubation",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/042,,"with separate conduits for in- and expiration gas, e.g. for limiting dead volume",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0422,,Laser-resistant,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0425,,Metal tubes,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0427,,"with removable and re-insertable liner tubes, e.g. for cleaning",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0429,,with non-integrated distal obturators,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0431,,with a cross-sectional shape other than circular,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0434,,Cuffs,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0436,,Special fillings therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0438,,Liquid-filled,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0443,,"Special cuff-wall materials   A61M2016/0481 , A61M2016/0422 take precedence",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0445,,"Special cuff forms, e.g. undulated",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0447,,"Bell, canopy or umbrella shaped",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/045,,with cuffs partially or completely inflated by the respiratory gas,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0452,,following the in- and expiration pressure,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0454,,Redundant cuffs,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0456,,one cuff within another,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0459,,one cuff behind another,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0475,,having openings in the tube,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0477,,with incorporated means for delivering or removing fluids  not used,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0479,,"above the cuff, e.g. giving access to the upper trachea",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0481,,through the cuff wall,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0484,,at the distal end,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0486,,Multi-lumen tracheal tubes,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0488,,"Mouthpieces; Means for guiding, securing or introducing the tubes   guiding or introducing with laryngoscopes A61B1/267 ; holding devices on the body A61M25/02",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/049,,Mouth pieces,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0493,,"with means for protecting the tube from damage caused by the patient`s teeth, e.g. bite block",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0495,,with tongue depressors,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0605,,Means for improving the adaptation of the mask to the patient,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0611,,with a gusset portion,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0616,,"with face sealing means comprising a flap or membrane projecting inwards, such that sealing increases with increasing inhalation gas pressure",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0622,,having an underlying cushion,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0627,,"with sealing means on a part of the body other than the face, e.g. helmets, hoods or domes",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0633,,with forehead support,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0638,,in the form of a pivot,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0644,,having means for adjusting its position,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/065,,in the form of a pivot,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0655,,in the form of a linear or curvilinear slide,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0666,,Nasal cannulas or tubing   devices for improving normal breathing through the nose A61F5/08 ; nose filters A62B23/06 ; outside holding devices A61M25/02,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0672,,Nasal cannula assemblies for oxygen therapy,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0677,,Gas-saving devices therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0683,,Holding devices therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0688,,by means of an adhesive,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0694,,Chin straps,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/08,,Bellows   Connecting tubes    having means for taking samples G01N1/22   ; Water traps; Patient circuits,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0816,,Joints or connectors,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0825,,with ball-sockets,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0833,,"T- or Y-type connectors, e.g. Y- piece",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0841,,for sampling,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/085,,Gas sampling,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0858,,Pressure sampling ports,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0866,,Passive resistors therefor,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0883,,Circuit type,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/0891,,"Closed circle circuit, e.g. for anaesthesia",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/101,,using an oxygen concentrator,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/1015,,"using a gas flush valve, e.g. oxygen flush valve",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/105,,"Filters   A61M16/047 , A61M16/22 take precedence; water traps A61M16/08",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/106,,In a path,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/1065,,In the expiratory path,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/107,,In the inspiratory path,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/1075,,by influencing the temperature   A61M16/1045 takes precedence,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/108,,before being humidified or mixed with a beneficial agent,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/1085,,after being humidified or mixed with a beneficial agent,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/109,,the humidifying liquid or the beneficial agent,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/1095,,in the connecting tubes,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/12,,by mixing different gases,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/122,,with dilution,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/125,,Diluting primary gas with ambient air,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/127,,"by Venturi effect, i.e. entrainment mixers",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/14,,"by mixing different fluids, one of them being in a liquid phase",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/142,,with semi-permeable walls separating the liquid from the respiratory gas,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/145,,using hollow fibres,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/147,,the respiratory gas not passing through the liquid container,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/16,,Devices to humidify the respiration air    A61M16/1045 takes precedence,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/161,,with means for measuring the humidity,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/162,,"Water-reservoir filling system, e.g. automatic",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/164,,including a liquid inlet valve system,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/165,,with a float actuator,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/167,,acting vertically on the valve,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/168,,having a dual float,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/201,,Controlled valves,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/202,,electrically actuated,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/203,,proportional,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/204,,used for inhalation control,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/205,,used for exhalation control,,Scheme XML差分（推定）
+2014.02,D,A61M 2016/206,,"Capsule valves, e.g. mushroom, membrane valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/207,,"Membrane valves with pneumatic amplification stage, i.e. having master and slave membranes",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/208,,"Non-controlled one-way valves, e.g. exhalation, check, pop-off non-rebreathing valves",,Scheme XML差分（推定）
+2014.02,D,A61M 2016/209,,Relief valves,,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0007,,Emptying the suction container without interrupting suction,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0015,,"Mechanical means for preventing flexible containers from collapsing when vacuum is applied inside, e.g. stents",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0017,,"Bag or liner in a rigid container, with suction applied to both",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0025,,comprising sensors or indicators for physical values,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0027,,Visual indicating means for vacuum pressure,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0029,,Visual indicating means for flow,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0033,,by changing the size of a vent   A61M1/0047 takes precedence,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0035,,"by changing the section of the line, e.g. flow regulating valves    A61M1/0043, A61M1/0045 take precedence",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0045,,by deformation of the fluid passage,Scheme XML差分（推定）
+2014.02,N,,A61M 1/005,,"using valves with freely moving parts, e.g. float valves",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0052,,"by filtering, sterilising or disinfecting the exhaust air, e.g. swellable filter valves",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0054,,by heat,Scheme XML差分（推定）
+2014.02,N,,A61M 1/006,,"Determination of loss or gain of body fluids due to suction-irrigation, e.g. during surgery",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0068,,"Piston pumps, e.g. syringes",Scheme XML差分（推定）
+2014.02,N,,A61M 1/007,,"the barrel serving as aspiration container, e.g. in a breast pump",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0072,,"Membrane pumps, e.g. bulbs",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0082,,rotating,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0086,,"Connectors therefor, e.g. detachable from hand-piece",Scheme XML差分（推定）
+2014.02,N,,A61M 1/009,,"having pumping means on suction site, e.g. miniature pump on wound dressing",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0092,,having venting means on or near the tip,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0094,,"having means for processing the drained fluid, e.g. an absorber",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0096,,Draining devices provided with means for releasing antimicrobial or gelation agents in the drained fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0098,,Draining devices provided with means for filtering out the harmless water content before discarding the drainage container,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0204,,"Blood stirrers, e.g. for defibrination",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0213,,with isolated sections of the tube used as additive reservoirs,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0218,,with filters,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0222,,and filter bypass,Scheme XML差分（推定）
+2014.02,N,,A61M 1/0227,,"and means for securing the filter against damage, e.g. during centrifugation",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0231,,"with gas separating means, e.g. air outlet through micro-porous membrane or gas bag",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0236,,"with sampling means, e.g. sample bag or sampling port",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0254,,"with a support plate moving only in one plane, e.g. horizontal",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0277,,"Frames constraining or supporting bags, e.g. during freezing",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0286,,"Handling a large number of blood product units, e.g. storage cabinets, blood bank administration",Scheme XML差分（推定）
+2014.02,N,,A61M 1/0295,,whereby the blood container and a solution container are compressed simultaneously by the same means,Scheme XML差分（推定）
+2014.02,N,,A61M 1/062,,Pump accessories,Scheme XML差分（推定）
+2014.02,N,,A61M 1/064,,Suction cups,Scheme XML差分（推定）
+2014.02,N,,A61M 1/066,,Inserts therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 1/068,,"having means for simultaneous feeding, e.g. with rubber nipple for feeding",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1001,,General aspects of blood pumps irrespective of pump type,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1003,,skeletal muscle-powered,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1005,,with means for making a blood flow pulsatile  moving filter membranes used for pumping A61M1/267 ; piston pumps A61M1/1081,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1006,,"Blood pumps incorporated within another functional device, e.g. an oxygenator, a dialyser or a blood chamber",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1008,,Tubes; Connections therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1012,,Constructional features thereof,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1013,,Types of bearings,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1015,,Magnetic bearings,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1017,,Hydrodynamic bearings,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1018,,with occluders preventing backflow,Scheme XML差分（推定）
+2014.02,N,,A61M 1/102,,having a purge fluid supply,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1022,,using filtered blood as purge fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1024,,having a collapsible rotor,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1025,,"Details on blood sealings between rotational parts, e.g. sealing by axial forces",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1029,,Drive systems therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1031,,"using a motor with canned rotor, i.e. a motor enclosed within a casing along with the rotor so that the motor bearings are lubricated by the blood that is being pumped",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1032,,with hydraulic or pneumatic driving means,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1034,,using rotating cables for driving,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1036,,using rotating magnets for driving,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1039,,Peristaltic pumps,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1041,,Linear,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1043,,Constructional features thereof,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1044,,Compliance chamber containing a gas or liquid other than blood to compensate volume variations of a blood chamber,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1048,,characterised by way of converting the movement,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1049,,with means converting the rotation of a motor into a translational movement of the flexible element,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1051,,"the axis of both movements being parallel, e.g. roller screw actuator, cylindrical cam transmission",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1055,,"Electromagnetic means, e.g. solenoids or ferro-fluids, magnetostrictive means",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1056,,"Thermo-electric means, e.g. shaped memory alloys",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1058,,Piezoelectric means,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1062,,"with application of vacuum at the blood pump, e.g. to accelerate filling",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1063,,Diastole or systole switching by stopping or reversing a hydraulic or pneumatic pump operating at a much higher cyclical speed than the heart rate,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1065,,Diastole or systole switching by valve means between the blood pump and the hydraulic or pneumatic energy source,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1074,,Intra-ventricular balloon pumps,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1075,,the pump membrane acting as inlet valve,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1082,,High-frequency pumps,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1084,,Venturi or jet pumps,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1087,,"Active valves for blood pumps or artificial hearts, i.e. using an external force for actuating the valve",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1089,,where the valve is formed by a flexible tube element which is clamped for restricting the flow,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1096,,"Passive valves for blood pumps or artificial hearts, i.e. valves actuated by the fluid",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1098,,"Valves having flexible or resilient parts, e.g. flap valve",Scheme XML差分（推定）
+2014.02,N,,A61M 1/122,,"Heart assist devices, i.e. for assisting an ailing heart, using additional pumping means in the blood circuit",Scheme XML差分（推定）
+2014.02,N,,A61M 1/125,,"intravascular, i.e. introduced or implanted in an existing blood vessel",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1601,,Control or regulation,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1603,,Regulation parameters,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1605,,Physical characteristics of the dialysate fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1607,,before use,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1609,,after use,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1611,,Weight of the patient,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1613,,Profiling or modelling,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1615,,using measurements made at different flow rates,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1617,,using measurements made during a temporary variation of a characteristic of the fresh dialysis fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1619,,"Sampled collection of used dialysate, i.e. obviating the need for recovery of whole dialysate quantity for post-dialysis analysis",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1621,,"Constructional aspects thereof B01D69/00, B01D71/00 take precedence",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1623,,Disposition of membranes,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1625,,"Dialyser of the outside perfusion type, i.e. blood flow outside hollow membrane fibres or tubes",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1627,,"Dialyser of the inside perfusion type, i.e. blood flow inside hollow membrane fibres or tubes",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1629,,with integral heat exchanger,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1631,,"having non-tubular membranes, e.g. sheets",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1633,,with more than one dialyzer unit,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1635,,with volume chamber balancing devices between used and fresh dialysis fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1637,,containing the whole volume of dialysis fluid used during a treatment session,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1639,,linked by membranes,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1641,,linked by pistons,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1643,,with weighing of fresh and used dialysis fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1645,,"with mechanically linked peristaltic dialysis fluid pumps one upstream, the other one downstream of the dialyser",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1647,,"with flow rate measurement of the dialysis fluid, upstream and downstream of the dialyser",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1649,,with pulsatile dialysis fluid flow,Scheme XML差分（推定）
+2014.02,N,,A61M 1/165,,with a dialyser bypass on the dialysis fluid line,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1652,,Holding or locking systems for the membrane unit,Scheme XML差分（推定）
+2014.02,N,,A61M 1/166,,Heatingfor sterilisation A61M1/1686,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1662,,with heat exchange between fresh and used dialysate,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1664,,with temperature control,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1666,,by dissolving solids,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1668,,Details of containers,Scheme XML差分（推定）
+2014.02,N,,A61M 1/167,,Flexible packaging for solid concentrates,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1672,,"using membrane filters, e.g. for sterilising the dialysate",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1674,,using UV radiation sources for sterilising the dialysate,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1676,,"containing proteins, e.g. albumin",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1682,,"both machine and membrane module, i.e. also the module blood side",Scheme XML差分（推定）
+2014.02,N,,A61M 1/1684,,Checking the module characteristics before reuse,Scheme XML差分（推定）
+2014.02,N,,A61M 1/1688,,with recirculation of the sterilising fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/262,,rotating,Scheme XML差分（推定）
+2014.02,N,,A61M 1/265,,inducing TAYLOR vortices,Scheme XML差分（推定）
+2014.02,N,,A61M 1/267,,used for pumping,Scheme XML差分（推定）
+2014.02,N,,A61M 1/281,,Instillation other than by gravity,Scheme XML差分（推定）
+2014.02,N,,A61M 1/282,,Operational modes,Scheme XML差分（推定）
+2014.02,N,,A61M 1/284,,Continuous flow peritoneal dialysis [CFPD],Scheme XML差分（推定）
+2014.02,N,,A61M 1/288,,Priming    priming in extracorporeal blood circuits A61M1/3643,Scheme XML差分（推定）
+2014.02,N,,A61M 1/301,,Details,Scheme XML差分（推定）
+2014.02,N,,A61M 1/302,,having a reservoir for withdrawn untreated blood,Scheme XML差分（推定）
+2014.02,N,,A61M 1/303,,having a reservoir for treated blood to be returned,Scheme XML差分（推定）
+2014.02,N,,A61M 1/304,,"Treatment chamber used as reservoir, e.g. centrifuge bowl or filter with movable membrane",Scheme XML差分（推定）
+2014.02,N,,A61M 1/305,,Control of inversion point between collection and re-infusion phase,Scheme XML差分（推定）
+2014.02,N,,A61M 1/306,,"Pressure control, e.g. using substantially rigid closed, gas buffered or elastic reservoirs",Scheme XML差分（推定）
+2014.02,N,,A61M 1/307,,Time control,Scheme XML差分（推定）
+2014.02,N,,A61M 1/308,,"Volume control, e.g. with open or flexible containers, by counting the number of pump revolutions, weighing",Scheme XML差分（推定）
+2014.02,N,,A61M 1/309,,with trans-membrane pressure [TMP] increasing substantially continuously during arterial phase,Scheme XML差分（推定）
+2014.02,N,,A61M 1/322,,Antifoam; Defoaming,Scheme XML差分（推定）
+2014.02,N,,A61M 1/325,,Surfactant coating; Improving wettability,Scheme XML差分（推定）
+2014.02,N,,A61M 1/327,,using catalytic production of oxygen,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3403,,Regulation parameters,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3406,,"Physical characteristics of the filtrate, e.g. urea",Scheme XML差分（推定）
+2014.02,N,,A61M 1/341,,"by measuring the filtrate rate, volume",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3417,,using distinct filters for dialysis and ultra-filtration,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3424,,Substitution fluid path,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3427,,"back through the membrane, e.g. by inverted trans-membrane pressure [TMP]",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3431,,upstream the filter,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3434,,with pre-dilution and post-dilution,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3437,,"downstream the filter, e.g. post-dilution with filtrate",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3444,,in which the collected ultra-filtrate expels an equal volume of substitution fluid from a reservoir,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3448,,by mechanical linked pumps in both ultra-filtrate and substitution flow line,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3451,,the difference in weight between both ultra-filtrate and substitution reservoir being used as control signal,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3458,,having electrolytes not present in the dialysate,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3465,,using dialysate as substitution fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3468,,using treated filtrate as substitution fluid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3475,,with filtrate treatment agent in the same enclosure as the membrane,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3479,,by dialyzing the filtrate,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3482,,"by filtrating the filtrate using another cross-flow filter, e.g. a membrane filter",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3486,,"Biological, chemical treatment, e.g. chemical precipitation; treatment by absorbents",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3489,,by biological cells,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3493,,using treatment agents in suspension,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3601,,Extra-corporeal circuits in which the blood fluid passes more than once through the treatment unit,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3603,,in the same direction,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3604,,in opposite directions,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3606,,Arrangements for blood-volume reduction of extra-corporeal circuits,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3607,,Regulation parameters,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3609,,"Physical characteristics of the blood, e.g. haematocrit, urea",Scheme XML差分（推定）
+2014.02,N,,A61M 1/361,,before treatment,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3612,,after treatment,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3613,,"Reperfusion, e.g. of the coronary vessels, e.g. retroperfusion",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3615,,Cleaning blood contaminated by local chemotherapy of a body part temporarily isolated from the blood circuit,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3616,,Batch-type treatment,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3618,,Magnetic separation,Scheme XML差分（推定）
+2014.02,N,,A61M 1/362,,"changing physical properties of target cells by binding them to added particles to facilitate their subsequent separation from other cells, e.g. immunoaffinity",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3629,,"degassing by changing pump speed, e.g. during priming",Scheme XML差分（推定）
+2014.02,N,,A61M 1/363,,Degassing by using vibrations,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3632,,Combined venous-cardiotomy reservoirs,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3635,,Constructional details,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3636,,having a flexible housing,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3638,,with a vapour trap,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3641,,Pressure isolators,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3644,,Mode of operation,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3646,,"Expelling the residual body fluid after use, e.g. back to the body",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3647,,with recirculation of the priming solution,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3649,,using dialysate as priming or rinsing liquid,Scheme XML差分（推定）
+2014.02,N,,A61M 1/365,,"through membranes, e.g. by inverted trans-membrane pressure [TMP]",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3652,,"using gas, e.g. air",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3656,,Monitoring patency or flow at connection sites; Detecting disconnections,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3658,,Indicating the amount of purified blood recirculating in the fistula or shunt,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3659,,Cannulae pertaining to extracorporeal circulation,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3661,,for haemodialysis,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3667,,with assisted venous return,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3673,,"Anticoagulant coating, e.g. Heparin coating",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3676,,by interposing a liquid layer between blood and air,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3678,,Separation of cells using wave pressure; Manipulation of individual corpuscles,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3683,,using photoactive agents,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3686,,by removing photoactive agents after irradiation,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3689,,by biological cells,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3692,,Washing or rinsing blood or blood constituents,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3695,,with sedimentation by gravity,Scheme XML差分（推定）
+2014.02,N,,A61M 1/3696,,"with means for adding or withdrawing liquid substances during the centrifugation, e.g. continuous centrifugation",Scheme XML差分（推定）
+2014.02,N,,A61M 1/3698,,Expressing processed fluid out from the turning rotor using another fluid compressing the treatment chamber; Variable volume rotors,Scheme XML差分（推定）
+2014.02,N,,A61M 11/001,,Particle size control,Scheme XML差分（推定）
+2014.02,N,,A61M 11/002,,by flow deviation causing inertial separation of transported particles,Scheme XML差分（推定）
+2014.02,N,,A61M 11/003,,by passing the aerosol trough sieves or filters,Scheme XML差分（推定）
+2014.02,N,,A61M 11/006,,operated by applying mechanical pressure to the liquid to be sprayed or atomised,Scheme XML差分（推定）
+2014.02,N,,A61M 11/007,,Syringe-type or piston-type sprayers or atomisers,Scheme XML差分（推定）
+2014.02,N,,A61M 11/008,,"by squeezing, e.g. using a flexible bottle or a bulb",Scheme XML差分（推定）
+2014.02,N,,A61M 11/042,,electrical,Scheme XML差分（推定）
+2014.02,N,,A61M 11/044,,with electrodes immersed in the liquid,Scheme XML差分（推定）
+2014.02,N,,A61M 11/045,,"using another liquid as heat exchanger, e.g. bain-marie",Scheme XML差分（推定）
+2014.02,N,,A61M 11/047,,by exothermic chemical reaction,Scheme XML差分（推定）
+2014.02,N,,A61M 11/048,,"with a flame, e.g. using a burner",Scheme XML差分（推定）
+2014.02,N,,A61M 11/065,,using steam as driving gas,Scheme XML差分（推定）
+2014.02,N,,A61M 13/006,,with gas recirculation,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0001,,Details of inhalators; Constructional features thereof,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0003,,with means for dispensing more than one drug,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0005,,with means for agitating the medicament,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0006,,using rotating means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0008,,rotating by airflow,Scheme XML差分（推定）
+2014.02,N,,A61M 15/001,,using ultrasonic means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0011,,"with microcapsules, e.g. several in one dose",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0013,,with inhalation check valves,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0015,,"located upstream of the dispenser, i.e. not traversed by the product",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0016,,"located downstream of the dispenser, i.e. traversed by the product",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0018,,with exhalation check valves,Scheme XML差分（推定）
+2014.02,N,,A61M 15/002,,with air flow regulating means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0021,,Mouthpieces therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0023,,retractable,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0025,,with caps,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0026,,Hinged caps,Scheme XML差分（推定）
+2014.02,N,,A61M 15/003,,"using capsules, e.g. to be perforated or broken-up",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0031,,"by bursting or breaking the package, i.e. without cutting or piercing",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0033,,Details of the piercing or cutting means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0035,,Piercing means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0036,,hollow piercing means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0038,,Cutting means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/004,,with fixed piercing or cutting means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0041,,with movable piercing or cutting means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0043,,"Non-destructive separation of the package, e.g. peeling",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0046,,characterized by the type of carrier,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0048,,"the dosages being arranged in a plane, e.g. on diskettes",Scheme XML差分（推定）
+2014.02,N,,A61M 15/005,,the dosages being arranged on a cylindrical surface,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0051,,"the dosages being arranged on a tape, e.g. strips",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0053,,characterized by the type or way of disposal,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0055,,the used dosages being coiled,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0056,,the used dosages being crushed,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0058,,the used dosages being cut from the carrier,Scheme XML差分（推定）
+2014.02,N,,A61M 15/006,,the used dosages being discarded out of the inhaler's housing,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0061,,using pre-packed dosages having an insert inside,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0063,,Storages for pre-packed dosages,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0066,,with means for varying the dose size,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0068,,Indicating or counting the number of dispensed doses or of remaining doses,Scheme XML差分（推定）
+2014.02,N,,A61M 15/007,,Mechanical counters,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0071,,having a display or indicator,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0073,,on a ring,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0075,,on a disc,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0076,,on a drum,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0078,,on a strip,Scheme XML差分（推定）
+2014.02,N,,A61M 15/008,,Electronic counters,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0081,,Locking means,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0083,,Timers,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0088,,with variable volume,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0093,,"without arming or cocking, e.g. acting directly on the delivery valve",Scheme XML差分（推定）
+2014.02,N,,A61M 15/0095,,Preventing manual activation in absenceof inhalation,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0096,,Hindering inhalation before activation of the dispenser,Scheme XML差分（推定）
+2014.02,N,,A61M 15/0098,,Activated by exhalation,Scheme XML差分（推定）
+2014.02,N,,A61M 15/025,,Bubble jet droplet ejection devices,Scheme XML差分（推定）
+2014.02,N,,A61M 15/085,,Fixing means therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0003,,"Accessories therefor, e.g. sensors, vibrators, negative pressure",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0006,,with means for creating vibrations in patients' airways,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0009,,"with sub-atmospheric pressure, e.g. during expiration",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0012,,by Venturi means,Scheme XML差分（推定）
+2014.02,N,,A61M 16/006,,Tidal volume membrane pumps,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0063,,Compressors,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0069,,"the speed thereof being controlled by respiratory parameters, e.g. by inhalation",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0081,,Bag or bellow in a bottle,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0084,,"self-reinflatable by elasticity, e.g. resuscitation squeeze bags",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0093,,"by adsorption, absorption or filtration",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0402,,Special features for tracheal tubes not otherwise provided for,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0404,,with means for selective or partial lung respiration,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0406,,implanted flow modifiers,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0409,,with mean for closing the oesophagus,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0411,,with means for differentiating between oesophageal and tracheal intubation,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0415,,with access means to the stomach,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0418,,"with integrated means for changing the degree of curvature, e.g. for easy intubation",Scheme XML差分（推定）
+2014.02,N,,A61M 16/042,,"with separate conduits for in-and expiration gas, e.g. for limited dead volume",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0422,,Laser-resistant,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0425,,Metal tubes,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0427,,"with removable and re-insertable liner tubes, e.g. for cleaning",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0429,,with non-integrated distal obturators,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0431,,with a cross-sectional shape other than circular,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0436,,Special fillings therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0438,,Liquid-filled,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0443,,"Special cuff-wall materials A61M16/0481, A61M16/0422 take precedence",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0445,,"Special cuff forms, e.g. undulated",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0447,,"Bell, canopy or umbrella shaped",Scheme XML差分（推定）
+2014.02,N,,A61M 16/045,,with cuffs partially or completely inflated by the respiratory gas,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0452,,following the inspiration and expiration pressure,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0454,,Redundant cuffs,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0456,,one cuff within another,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0459,,one cuff behind another,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0475,,having openings in the tube,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0477,,with incorporated means for delivering or removing fluids,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0479,,"above the cuff, e.g. giving access to the upper trachea",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0481,,through the cuff wall,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0484,,at the distal end,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0486,,Multi-lumen tracheal tubes,Scheme XML差分（推定）
+2014.02,N,,A61M 16/049,,Mouthpieces,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0493,,"with means for protecting the tube from damage caused by the patient's teeth, e.g. bite block",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0495,,with tongue depressors,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0605,,Means for improving the adaptation of the mask to the patient,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0611,,with a gusset portion,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0616,,"with face sealing means comprising a flap or membrane projecting inwards, such that sealing increases with increasing inhalation gas pressure",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0622,,having an underlying cushion,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0627,,"with sealing means on a part of the body other than the face, e.g. helmets, hoods or domes",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0633,,with forehead support,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0638,,in the form of a pivot,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0644,,having the means for adjusting its position,Scheme XML差分（推定）
+2014.02,N,,A61M 16/065,,in the form of a pivot,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0655,,in the form of a linear or curvilinear slide,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0672,,Nasal cannula assemblies for oxygen therapy,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0677,,Gas-saving devices therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0688,,by means of an adhesive,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0694,,Chin straps,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0825,,with ball-sockets,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0833,,"T- or Y-type connectors, e.g. Y-piece",Scheme XML差分（推定）
+2014.02,N,,A61M 16/0841,,for sampling,Scheme XML差分（推定）
+2014.02,N,,A61M 16/085,,Gas sampling,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0858,,Pressure sampling ports,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0866,,Passive resistors therefor,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0883,,Circuit type,Scheme XML差分（推定）
+2014.02,N,,A61M 16/0891,,"Closed circuit, e.g. for anaesthesia",Scheme XML差分（推定）
+2014.02,N,,A61M 16/1005,,with O2 features or with parameter measurement,Scheme XML差分（推定）
+2014.02,N,,A61M 16/101,,using an oxygen concentrator,Scheme XML差分（推定）
+2014.02,N,,A61M 16/1015,,"using a gas flush valve, e.g. oxygen flush valve",Scheme XML差分（推定）
+2014.02,N,,A61M 16/106,,in a path,Scheme XML差分（推定）
+2014.02,N,,A61M 16/1065,,in the expiratory path,Scheme XML差分（推定）
+2014.02,N,,A61M 16/107,,in the inspiratory path,Scheme XML差分（推定）
+2014.02,N,,A61M 16/108,,before being humidified or mixed with a beneficial agent,Scheme XML差分（推定）
+2014.02,N,,A61M 16/1085,,after being humidified or mixed with a beneficial agent,Scheme XML差分（推定）
+2014.02,N,,A61M 16/109,,the humidifying liquid or the beneficial agent,Scheme XML差分（推定）
+2014.02,N,,A61M 16/1095,,in the connecting tubes,Scheme XML差分（推定）
+2014.02,N,,A61M 16/122,,with dilution,Scheme XML差分（推定）
+2014.02,N,,A61M 16/125,,Diluting primary gas with ambient air,Scheme XML差分（推定）
+2014.02,N,,A61M 16/127,,"by Venturi effect, i.e. entrainment mixers",Scheme XML差分（推定）
+2014.02,N,,A61M 16/142,,with semi-permeable walls separating the liquid from the respiratory gas,Scheme XML差分（推定）
+2014.02,N,,A61M 16/145,,using hollow fibres,Scheme XML差分（推定）
+2014.02,N,,A61M 16/147,,the respiratory gas not passing through the liquid container,Scheme XML差分（推定）
+2014.02,N,,A61M 16/161,,with means for measuring the humidity,Scheme XML差分（推定）
+2014.02,N,,A61M 16/164,,including a liquid inlet valve system,Scheme XML差分（推定）
+2014.02,N,,A61M 16/165,,with a float actuator,Scheme XML差分（推定）
+2014.02,N,,A61M 16/167,,acting vertically on the valve,Scheme XML差分（推定）
+2014.02,N,,A61M 16/168,,having a dual float,Scheme XML差分（推定）
+2014.02,N,,A61M 16/201,,Controlled valves,Scheme XML差分（推定）
+2014.02,N,,A61M 16/202,,electrically actuated,Scheme XML差分（推定）
+2014.02,N,,A61M 16/203,,Proportional,Scheme XML差分（推定）
+2014.02,N,,A61M 16/204,,used for inhalation control,Scheme XML差分（推定）
+2014.02,N,,A61M 16/205,,used for exhalation control,Scheme XML差分（推定）
+2014.02,N,,A61M 16/206,,"Capsule valves, e.g. mushroom, membrane valves",Scheme XML差分（推定）
+2014.02,N,,A61M 16/207,,"Membrane valves with pneumatic amplification stage, i.e. having master and slave membranes",Scheme XML差分（推定）
+2014.02,N,,A61M 16/209,,Relief valves,Scheme XML差分（推定）
+2014.02,N,,A61M 3/0204,,"Physical characteristics of the irrigation fluid, e.g. conductivity or turbidity",Scheme XML差分（推定）
+2014.02,N,,A61M 3/0208,,before use,Scheme XML差分（推定）
+2014.02,N,,A61M 3/0212,,after use,Scheme XML差分（推定）
+2014.02,N,,A61M 3/0216,,Pressure,Scheme XML差分（推定）
+2014.02,N,,A61M 3/022,,Volume; Flow rate,Scheme XML差分（推定）
+2014.02,N,,H01G 2004/002,,Details,Scheme XML差分（推定）
+2014.02,N,,H01G 2004/018,,Dielectrics,Scheme XML差分（推定）
+2014.02,N,,H01G 2009/004,,Details,Scheme XML差分（推定）
+2014.02,M,A61B 2017/0609,A61B 2017/0609,"having sharp tips at both ends, e.g. shuttle needle alternately retained and released by first and second facing jaws of a suturing instrument   MIS suturing instruments A61B17/0469 ; jaws of MIS forceps A61b2017/2926","having sharp tips at both ends, e.g. shuttle needle alternately retained and released by first and second facing jaws of a suturing instrument   MIS suturing instruments A61B17/0469 ; jaws of MIS forceps A61B2017/2926",Scheme XML差分（推定）
+2014.02,M,A61B 5/153,A61B 5/153,Devices  specially adapted for taking samples of venous or arterial blood e.g. with syringes,"Devices  specially adapted for taking samples of venous or arterial blood, e.g. with syringes",Scheme XML差分（推定）
+2014.02,M,A61B 5/1535,A61B 5/1535,comprising means for indicating vein entry,comprising means for indicating vein or arterial entry A61B5/1545 takes precedence,Scheme XML差分（推定）
+2014.02,M,A61B 5/1545,A61B 5/1545,comprising means for indicating vein entry,comprising means for indicating vein or arterial entry,Scheme XML差分（推定）
+2014.02,M,A61B 5/155,A61B 5/155,Devices  specially adapted for continuous or multiple sampling e.g. at predetermined intervals    devices loaded with multiple lancets simultaneously A61B5/15146,"Devices  specially adapted for continuous or multiple sampling, e.g. at predetermined intervals    devices loaded with multiple lancets simultaneously A61B5/15146",Scheme XML差分（推定）
+2014.02,M,A61M 1/00,A61M 1/00,"Suction or pumping devices for medical purposes   Devices for carrying-off, for treatment of, or for carrying-over, body-liquids   Drainage systems    A61M3/00 to A61M5/00 , A61M11/00 to A61M16/00 , A61M27/00 to A61M35/00 take precedence    ; catheters A61M25/00 ; tube connectors, tube couplings, valves or branch units specially adapted for medical use A61M39/00 ; devices for taking samples of blood A61B5/14 ; implements for holding wounds open A61B17/02 ;    saliva removers for dentists A61C17/04    ; filters implantable into blood vessels A61F2/01 ; pumps in general F04","Suction or pumping devices for medical purposesDevices for carrying-off, for treatment of, or for carrying-over, body-liquidsDrainage systems   A61M3/00 to A61M5/00 , A61M11/00 to A61M16/00 , A61M27/00 to A61M35/00 take precedence    ; catheters A61M25/00 ; tube connectors, tube couplings, valves or branch units specially adapted for medical use A61M39/00 ; devices for taking samples of blood A61B5/14 ; implements for holding wounds open A61B17/02 ;    saliva removers for dentists A61C17/04    ; filters implantable into blood vessels A61F2/01 ; pumps in general F04",Scheme XML差分（推定）
+2014.02,M,A61M 1/01,A61M 1/01,"Blood pumps   Artificial hearts   Devices for mechanical circulatory assistance, e.g. intra-aortic balloon pumps   artificial heart valves A61F2/24 ; heart stimulation A61H31/00","Blood pumpsArtificial heartsDevices for mechanical circulatory assistance, e.g. intra-aortic balloon pumps  artificial heart valves A61F2/24 ; heart stimulation A61H31/00",Scheme XML差分（推定）
+2014.02,M,A61M 1/02,A61M 1/02,Blood transfusion apparatus   blood infusion by syringes A61M5/14,Blood transfusion apparatus  blood infusion by syringes A61M5/14,Scheme XML差分（推定）
+2014.02,M,A61M 1/04,A61M 1/04,Artificial  pneumothorax apparatus,Artificial pneumothorax apparatus,Scheme XML差分（推定）
+2014.02,M,A61M 1/06,A61M 1/06,Milking pumps   feeding-bottles A61J9/00,Milking pumps  feeding-bottles A61J9/00,Scheme XML差分（推定）
+2014.02,M,A61M 1/12,A61M 1/12,"implantable into the body   not used, see subgroups","implantable into the body  not used, see subgroups",Scheme XML差分（推定）
+2014.02,M,A61M 1/14,A61M 1/14,"Dialysis systems   Artificial kidneys   Blood oxygenators;  Reciprocating systems for treatment of body fluids, e.g. single needle systems for haemofiltration, pheris   haemofiltration using non reciprocating systems A61M1/34 ; extracorporeal blood circuit aspects A61M1/36    ;   processes of separation using semi-permeable membranes B01D61/00 ; semi-permeable membranes characterised by the material, manufacturing processes therefor B01D71/00","Dialysis systemsArtificial kidneysBlood oxygenators; Reciprocating systems for treatment of body fluids, e.g. single needle systems for haemofiltration, pheris   haemofiltration using non reciprocating systems A61M1/34 ; extracorporeal blood circuit aspects A61M1/36   ;  processes of separation using semi-permeable membranes B01D61/00 ; semi-permeable membranes characterised by the material, manufacturing processes therefor B01D71/00",Scheme XML差分（推定）
+2014.02,M,A61M 1/16,A61M 1/16,"with membranes    A61M1/30 takes precedence; membranes per se B01D69/00 , B01D71/00","with membranes   A61M1/30 takes precedence; membranes per se B01D69/00 , B01D71/00",Scheme XML差分（推定）
+2014.02,M,A61M 1/26,A61M 1/26,and internal elements  which are moving,and internal elements which are moving,Scheme XML差分（推定）
+2014.02,M,A61M 1/28,A61M 1/28,"Peritoneal dialysis;  Other peritoneal treatment, e.g. oxygenation","Peritoneal dialysis; Other peritoneal treatment, e.g. oxygenation",Scheme XML差分（推定）
+2014.02,M,A61M 1/34,A61M 1/34,"Filtering material out of the blood by passing it through a membrane, i.e. haemofiltration, diafiltration    A61M1/30 takes precedence; extracorporeal blood circuit aspects A61M1/36","Filtering material out of the blood by passing it through a membrane, i.e. haemofiltration, diafiltration   A61M1/30 takes precedence; extracorporeal blood circuit aspects A61M1/36",Scheme XML差分（推定）
+2014.02,M,A61M 1/36,A61M 1/36,"Other treatment of blood in a by-pass of the natural circulatory system, e.g. temperature adaptation, irradiation;  Extra-corporeal blood circuits","Other treatment of blood in a by-pass of the natural circulatory system, e.g. temperature adaptation, irradiation; Extra-corporeal blood circuits",Scheme XML差分（推定）
+2014.02,M,A61M 1/38,A61M 1/38,"Removing constituents from donor blood and  storing or  returning remainder to body,  e.g. for transfusion","Removing constituents from donor blood and storing or returning remainder to body, e.g. for transfusion",Scheme XML差分（推定）
+2014.02,M,A61M 2001/00,A61M 2001/00,"Suction or pumping devices for medical purposes   Devices for carrying-off, for treatment of, or for carrying-over, body-liquids   Drainage systems    A61M3/00 to A61M5/00 , A61M11/00 to A61M16/00 , A61M27/00 to A61M35/00 take precedence    ; catheters A61M25/00 ; tube connectors, tube couplings, valves or branch units specially adapted for medical use A61M39/00 ; devices for taking samples of blood A61B5/14 ; implements for holding wounds open A61B17/02 ;    saliva removers for dentists A61C17/04    ; filters implantable into blood vessels A61F2/01 ; pumps in general F04",,Scheme XML差分（推定）
+2014.02,M,E04C 2/00,E04C 2/00,"Building elements of relatively thin form for the construction of parts of buildings, e.g. sheet materials, slabs, or panels materials or manufacture, see the relevant subclasses, e.g. B27N, D21J; made in situ E04B; specially designed for insulation or other protection E04B1/62; load-carrying floor structures E04B5/02, E04B5/16; roofs consisting of self-supporting slabs E04B7/20; roof or like covering elements E04D3/00; for lining or finishing E04F13/00","Building elements of relatively thin form for the construction of parts of buildings, e.g. sheet materials, slabs, or panels   materials or manufacture, see the relevant subclasses, e.g. B27N, D21J; made in situ E04B; specially designed for insulation or other protection E04B1/62; load-carrying floor structures E04B5/02, E04B5/16; roofs consisting of self-supporting slabs E04B7/20; roof or like covering elements E04D3/00; for lining or finishing E04F13/00",Scheme XML差分（推定）
+2014.02,M,E04C 2/01,E04C 2/01,"of wood, fibres, chips, vegetable stems, or the like of plastics of foamed products E04C2/049, E04C2/26 take precedence; hydraulic cement and mineral fibres E04C2/04","of wood, fibres, chips, vegetable stems, or the like    of plastics   of foamed products   E04C2/049  , E04C2/26 take precedence;  hydraulic cement and mineral fibres E04C2/04",Scheme XML差分（推定）
+2014.02,M,E04C 2/03,E04C 2/03,characterised by the shape or structure translucent E04C2/54,characterised by the shape or structure   translucent E04C2/54,Scheme XML差分（推定）
+2014.02,M,E04C 2/04,E04C 2/04,"composed of a number of smaller components rigidly or movably connected together, e.g. interlocking, hingedly connected of particular shape, e.g. not rectangular of variable shape or size, e.g. flexible or telescopic panels E04C2/041 takes precedence","composed of a number of smaller components rigidly or movably connected together, e.g. interlocking, hingedly connected  of particular shape, e.g. not rectangular of variable shape or size, e.g. flexible or telescopic panels   E04C2/041 takes precedence",Scheme XML差分（推定）
+2014.02,M,E04C 2/042,E04C 2/042,Apparatus for handling the smaller elements or the hardenable material; bricklaying machines for prefabricated panels bricklaying machines in generalE04G21/22,Apparatus for handling the smaller elements or the hardenable material; bricklaying machines for prefabricated panels   bricklaying machines in generalE04G21/22,Scheme XML差分（推定）
+2014.02,M,E04C 2/043,E04C 2/043,of plaster E04C2/049 takes precedence,of plaster   E04C2/049 takes precedence,Scheme XML差分（推定）
+2014.02,M,E04C 2/044,E04C 2/044,of concrete E04C2/049 takes precedence,of concrete   E04C2/049 takes precedence,Scheme XML差分（推定）
+2014.02,M,E04C 2/05,E04C 2/05,"Self-supporting slabs specially adapted for making floors ceilings, or roofs, e.g. able to be loaded  E04C2/52, E04C2/54 take precedence; structures of slab-shaped elements E04B1/02; floor structures E04B5/00;  roofs consisting of self-supporting slabs E04B7/20; ceilings E04B9/00; roof coverings E04D; floor coverings E04F15/00","Self-supporting slabs specially adapted for making floors ceilings, or roofs, e.g. able to be loaded   E04C2/52, E04C2/54 take precedence; structures of slab-shaped elements E04B1/02; floor structures E04B5/00;   roofs consisting of self-supporting slabs E04B7/20;   ceilings E04B9/00; roof coverings E04D; floor coverings E04F15/00",Scheme XML差分（推定）
+2014.02,M,E04C 2/08,E04C 2/08,"of metal, e.g. sheet metal E04C2/26 takes precedence","of metal, e.g. sheet metal   E04C2/26 takes precedence",Scheme XML差分（推定）
+2014.02,M,E04C 2/22,E04C 2/22,reinforced E04C2/205 takes precedence,reinforced  E04C2/205 takes precedence,Scheme XML差分（推定）
+2014.02,M,E04C 2/26,E04C 2/26,"composed of materials covered by two or more of groups E04C2/04, E04C2/08, E04C2/10 or of materials covered by one of these groups with a material not specified in one of the groups of cement and mineral fibres E04C2/04","composed of materials covered by two or more of groups E04C2/04, E04C2/08, E04C2/10 or of materials covered by one of these groups with a material not specified in one of the groups   of cement and mineral fibres E04C2/04",Scheme XML差分（推定）
+2014.02,M,E04C 2/296,E04C 2/296,composed of insulating material and non-metallic or unspecified sheet-material E04C2/288 takes precedence,composed of insulating material and non-metallic or unspecified sheet-material   E04C2/288 takes precedence,Scheme XML差分（推定）
+2014.02,M,E04C 2/32,E04C 2/32,formed of corrugated or otherwise indented sheet-like material composed of such layers with or without layers of flat sheet-like material,formed of corrugated or otherwise indented sheet-like material    composed of such layers with or without layers of flat sheet-like material,Scheme XML差分（推定）
+2014.02,M,E04C 2/324,E04C 2/324,with incisions or reliefs in the surface E04C2/326 takes precedence,with incisions or reliefs in the surface   E04C2/326 takes precedence,Scheme XML差分（推定）
+2014.02,M,E04C 2/34,E04C 2/34,composed of two or more spaced sheet-like parts E04C2/32 takes precedence; spacers for cavity walls E04B2/44,composed of two or more spaced sheet-like parts   E04C2/32 takes precedence; spacers for cavity walls E04B2/44,Scheme XML差分（推定）
+2014.02,M,E04C 2/36,E04C 2/36,"spaced apart by transversely-placed strip material, e.g. honeycomb panels honeycomb or other core members for layered products B32B","spaced apart by transversely-placed strip material, e.g. honeycomb panels   honeycomb or other core members for layered products B32B",Scheme XML差分（推定）
+2014.02,M,E04C 2/38,E04C 2/38,"with attached ribs, flanges, or the like, e.g. framed panels concerned with attaching to other panels or elements to form a structure, see the places for the relevant structure, e.g. E04B2/00","with attached ribs, flanges, or the like, e.g. framed panels   concerned with attaching to other panels or elements to form a structure, see the places for the relevant structure, e.g. E04B2/00",Scheme XML差分（推定）
+2014.02,M,E04C 2/42,E04C 2/42,Gratings Grid-like panels reinforcing elements E04C5/00; built-in gratings E04F19/10; gratings in general F16S3/00,Gratings    Grid-like panels   reinforcing elements E04C5/00; built-in gratings E04F19/10; gratings in general F16S3/00,Scheme XML差分（推定）
+2014.02,M,E04C 2/46,E04C 2/46,"specially adapted for making walls  E04C2/52, E04C2/54 take precedence; structure of slab-shaped elements E04B1/02; walls of elements of relatively thin form E04B2/72","specially adapted for making walls   E04C2/52, E04C2/54 take precedence; structure of slab-shaped elements E04B1/02; walls of elements of relatively thin form E04B2/72",Scheme XML差分（推定）
+2014.02,M,E04C 2/48,E04C 2/48,"as high as or higher than the room, i.e. having provisions concerning the connection with at least two floors  E04C2/52 and E04C2/54 take precedence","as high as or higher than the room, i.e. having provisions concerning the connection with at least two floors   E04C2/52 and E04C2/54 take precedence",Scheme XML差分（推定）
+2014.02,M,E04C 2/52,E04C 2/52,"with special adaptations for auxiliary purposes, e.g. serving for locating conduits E04C2/54 takes precedence; block-shaped elements therefor E04C1/39; floor structures incorporating ducts E04B5/48","with special adaptations for auxiliary purposes, e.g. serving for locating conduits   E04C2/54 takes precedence; block-shaped elements therefor E04C1/39; floor structures incorporating ducts E04B5/48",Scheme XML差分（推定）
+2014.02,M,E04C 2/525,E04C 2/525,for heating or cooling solar heat collectors F24J2/04; heat storage F28D20/00,for heating or cooling   solar heat collectors F24J2/04; heat storage F28D20/00,Scheme XML差分（推定）
+2014.02,M,E04C 2/54,E04C 2/54,"Slab-like translucent elements floors for transmitting light E04B5/46; translucent or open-work ceilings E04B9/32, E04B9/34; translucent roof coverings E04D3/06, E04D3/28","Slab-like translucent elements   floors for transmitting light E04B5/46; translucent or open-work ceilings E04B9/32, E04B9/34; translucent roof coverings E04D3/06, E04D3/28",Scheme XML差分（推定）
+2014.02,M,F01C 1/06,F01C 1/06,of other than internal-axis type,of other than internal-axis typeF01C1/063 takes precedence,Scheme XML差分（推定）
+2014.02,M,F04C 2/06,F04C 2/06,of other than internal-axis type,of other than internal-axis typeF04C2/063 takes precedence,Scheme XML差分（推定）

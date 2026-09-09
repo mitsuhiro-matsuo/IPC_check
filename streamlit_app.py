@@ -11,6 +11,12 @@ from cpc_latest_store import list_registered as list_cpc_latest_registered
 from cpc_latest_store import parse_cpc_dat, registered_data as registered_cpc_latest_data
 from cpc_latest_store import register_latest as register_cpc_latest
 from cpc_matcher import add_match_flags as add_cpc_match_flags, normalize_column as normalize_cpc_column
+from cpc_consolidator import build_revision_result as build_cpc_revision_result
+from cpc_revision_store import download_official_file, list_official_releases
+from cpc_revision_store import list_registered as list_cpc_revision_registered
+from cpc_revision_store import parse_cpc_revision_zip, registered_data as registered_cpc_revision_data
+from cpc_revision_store import register_revision as register_cpc_revision
+from cpc_revision_store import revision_from_filename as cpc_revision_from_filename
 from fi_consolidator import build_result as build_fi_result
 from fi_latest_store import list_registered as list_fi_latest_registered
 from fi_latest_store import parse_fi_dat, registered_data as registered_fi_latest_data
@@ -36,7 +42,9 @@ LATEST_STORAGE = APP_DIR / "data" / "latest_ipc"
 FI_REVISION_STORAGE = APP_DIR / "data" / "fi_revisions"
 FI_LATEST_STORAGE = APP_DIR / "data" / "latest_fi"
 CPC_LATEST_STORAGE = APP_DIR / "data" / "latest_cpc"
+CPC_REVISION_STORAGE = APP_DIR / "data" / "cpc_revisions"
 FI_MATCHING_VERSION = "2026-08-05.2"
+CPC_MATCHING_VERSION = "2026-09-09.2"
 
 st.set_page_config(page_title="IPC・FI・CPC改正状況チェック", page_icon="📊", layout="wide")
 st.title("IPC・FI・CPC改正状況チェック")
@@ -151,6 +159,57 @@ def register_fi_data() -> dict[str, pd.DataFrame]:
 
 
 def register_cpc_data() -> dict[str, pd.DataFrame]:
+    st.header("CPC改正情報")
+    revision_records = list_cpc_revision_registered(CPC_REVISION_STORAGE)
+    if revision_records.empty:
+        st.info("登録済みのCPC改正情報はありません")
+    else:
+        st.dataframe(revision_records[["revision", "source", "rows"]], hide_index=True, use_container_width=True)
+
+    if st.button("CPC公式改正情報を確認", use_container_width=True):
+        try:
+            st.session_state["cpc_official_releases"] = list_official_releases()
+        except Exception as exc:
+            st.error(str(exc))
+    releases = st.session_state.get("cpc_official_releases", pd.DataFrame())
+    if not releases.empty:
+        available = releases[~releases["revision"].isin(revision_records["revision"])]
+        selected_revisions = st.multiselect(
+            "公式サイトから取得するCPC改正時期",
+            available["revision"].tolist(),
+            format_func=lambda revision: f"{revision} ({available.loc[available['revision'] == revision, '資料種別'].iloc[0]})",
+            key="cpc_official_revision_selection",
+        )
+        if selected_revisions and st.button("選択したCPC改正情報を取得・登録", use_container_width=True):
+            failures = []
+            for revision in selected_revisions:
+                release = available[available["revision"] == revision].iloc[0]
+                try:
+                    raw = download_official_file(release["url"])
+                    frame = parse_cpc_revision_zip(raw, revision)
+                    register_cpc_revision(frame, revision, "CPC公式サイト", CPC_REVISION_STORAGE, release["url"], f"cpc_{revision.replace('.', '')}")
+                except Exception as exc:
+                    failures.append(f"{revision}: {exc}")
+            for failure in failures:
+                st.error(failure)
+            if not failures:
+                st.rerun()
+
+    revisions = st.file_uploader("CPC改正情報（公式ZIP、複数選択可）", type=["zip"], accept_multiple_files=True, key="cpc_revision_uploads")
+    if revisions and st.button("CPC改正情報を登録", use_container_width=True):
+        failures = []
+        for file in revisions:
+            revision = cpc_revision_from_filename(file.name)
+            try:
+                frame = parse_cpc_revision_zip(file.getvalue(), revision)
+                register_cpc_revision(frame, revision, "ユーザーアップロード", CPC_REVISION_STORAGE, file.name, file.name.rsplit(".", 1)[0])
+            except Exception as exc:
+                failures.append(f"{file.name}: {exc}")
+        for failure in failures:
+            st.error(failure)
+        if not failures:
+            st.rerun()
+
     st.header("最新CPCファイル")
     records = list_cpc_latest_registered(CPC_LATEST_STORAGE)
     if records.empty:
@@ -191,11 +250,12 @@ def display_results(prefix: str, sheets: dict[str, pd.DataFrame], revision_flag:
 
 def display_cpc_results(sheets: dict[str, pd.DataFrame]) -> None:
     target, result, errors = sheets["対象"], sheets["一致結果"], sheets["変換エラー"]
-    metrics = st.columns(4)
+    metrics = st.columns(5)
     metrics[0].metric("対象件数", f"{len(target):,}")
     metrics[1].metric("変換エラー", f"{len(errors):,}")
-    metrics[2].metric("最新CPC一致", f"{(target['最新CPC一致'] == '*').sum():,}")
-    metrics[3].metric("結果件数", f"{len(result):,}")
+    metrics[2].metric("CPC改正情報一致", f"{(target['CPC改正情報一致'] == '*').sum():,}")
+    metrics[3].metric("最新CPC一致", f"{(target['最新CPC一致'] == '*').sum():,}")
+    metrics[4].metric("結果件数", f"{len(result):,}")
     result_tab, target_tab, error_tab = st.tabs(["一致結果", "対象データ", "変換エラー"])
     with result_tab:
         st.dataframe(result, use_container_width=True, hide_index=True)
@@ -315,11 +375,19 @@ def render_fi_flow(pending_latest: dict[str, pd.DataFrame]) -> None:
 
 def render_cpc_flow(pending_latest: dict[str, pd.DataFrame]) -> None:
     target_file = st.file_uploader("CPC対象ファイル", type=["xlsx", "xlsm", "xls", "csv"], key="cpc_target")
+    revision_files = st.file_uploader("CPC改正情報ファイル（任意、公式ZIP、複数選択可）", type=["zip"], accept_multiple_files=True, key="cpc_revision")
     latest_file = st.file_uploader("最新CPCファイル（任意）", type=None, key="cpc_latest")
     if not target_file:
         return
     try:
         target = read_target_table(target_file)
+        revision_frames = [registered_cpc_revision_data(CPC_REVISION_STORAGE)]
+        for revision_file in revision_files:
+            revision = cpc_revision_from_filename(revision_file.name)
+            if not revision:
+                raise ValueError(f"{revision_file.name} の改正時期をファイル名から判定できません")
+            revision_frames.append(parse_cpc_revision_zip(revision_file.getvalue(), revision))
+        revisions = pd.concat(revision_frames, ignore_index=True).drop_duplicates()
         latest_frames = [registered_cpc_latest_data(CPC_LATEST_STORAGE), *pending_latest.values()]
         if latest_file:
             latest_frames.append(parse_cpc_dat(latest_file.getvalue()))
@@ -330,17 +398,28 @@ def render_cpc_flow(pending_latest: dict[str, pd.DataFrame]) -> None:
     if target.empty or latest.empty:
         st.error("対象ファイルと最新CPCファイルを用意してください。")
         return
+    if revisions.empty:
+        st.warning("CPC改正情報が未登録です。最新CPCとの一致のみを確認します。")
     first, second = st.columns(2)
     with first:
         target_input = choose_column(target, "対象CPC入力列", 2)
     with second:
         target_id = choose_column(target, "CPC対象ID列", 1)
-    st.caption("CPCは改正履歴を持たないため、最新CPCファイルとの一致のみを確認します。")
+    st.caption("CPC改正情報は改正前・改正後の両記号で照合します。改正情報が未登録でも、最新CPCとの一致を確認できます。")
     if st.button("CPC処理を実行", type="primary", use_container_width=True):
         normalized, errors = normalize_cpc_column(target, target_input)
-        flagged = add_cpc_match_flags(normalized, latest)
-        result = build_cpc_result(flagged, latest, target_id, target_input)
-        st.session_state["cpc_sheets"] = {"対象": flagged, "一致結果": result, "変換エラー": errors}
+        flagged = add_cpc_match_flags(normalized, latest, revisions)
+        result = build_cpc_revision_result(flagged, revisions, latest, target_id, target_input)
+        st.session_state["cpc_sheets"] = {
+            "対象": flagged,
+            "一致結果": result,
+            "変換エラー": errors,
+            "照合バージョン": CPC_MATCHING_VERSION,
+        }
+    if st.session_state.get("cpc_sheets", {}).get("照合バージョン") != CPC_MATCHING_VERSION:
+        st.session_state.pop("cpc_sheets", None)
+        st.info("CPC記号の照合規則を更新しました。CPC処理を実行して結果を再計算してください。")
+        return
     if "cpc_sheets" in st.session_state:
         display_cpc_results(st.session_state["cpc_sheets"])
 

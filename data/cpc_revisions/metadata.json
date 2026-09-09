@@ -1,0 +1,274 @@
+[
+  {
+    "revision": "2026.08",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/bulk/CPCNoticeOfChangeXMLArtefact202608.zip",
+    "registered_at": "2026-09-08T11:01:44+09:00",
+    "rows": 487,
+    "file": "cpc_202608_202608.csv"
+  },
+  {
+    "revision": "2026.05",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202605.zip",
+    "registered_at": "2026-09-08T11:01:45+09:00",
+    "rows": 841,
+    "file": "cpc_202605_202605.csv"
+  },
+  {
+    "revision": "2026.01",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202601.zip",
+    "registered_at": "2026-09-08T11:01:48+09:00",
+    "rows": 13366,
+    "file": "cpc_202601_202601.csv"
+  },
+  {
+    "revision": "2025.08",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202508.zip",
+    "registered_at": "2026-09-08T11:01:49+09:00",
+    "rows": 1106,
+    "file": "cpc_202508_202508.csv"
+  },
+  {
+    "revision": "2025.05",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202505.zip",
+    "registered_at": "2026-09-08T11:01:51+09:00",
+    "rows": 1713,
+    "file": "cpc_202505_202505.csv"
+  },
+  {
+    "revision": "2025.01",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202501.zip",
+    "registered_at": "2026-09-08T11:01:53+09:00",
+    "rows": 6613,
+    "file": "cpc_202501_202501.csv"
+  },
+  {
+    "revision": "2024.08",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202408.zip",
+    "registered_at": "2026-09-08T11:01:55+09:00",
+    "rows": 2509,
+    "file": "cpc_202408_202408.csv"
+  },
+  {
+    "revision": "2024.05",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202405.zip",
+    "registered_at": "2026-09-08T11:01:57+09:00",
+    "rows": 1309,
+    "file": "cpc_202405_202405.csv"
+  },
+  {
+    "revision": "2024.01",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202401.zip",
+    "registered_at": "2026-09-08T11:01:59+09:00",
+    "rows": 2698,
+    "file": "cpc_202401_202401.csv"
+  },
+  {
+    "revision": "2023.08",
+    "source": "CPC?????",
+    "source_url": "https://www.cooperativepatentclassification.org/sites/default/files/cpc/archive/Compilation202308.zip",
+    "registered_at": "2026-09-08T11:02:01+09:00",
+    "rows": 3346,
+    "file": "cpc_202308_202308.csv"
+  },
+  {
+    "revision": "2023.05",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202305.zip",
+    "registered_at": "2026-09-08T11:02:04+09:00",
+    "rows": 2051,
+    "file": "cpc_202305_202305.csv"
+  },
+  {
+    "revision": "2023.02",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202302.zip",
+    "registered_at": "2026-09-08T11:02:06+09:00",
+    "rows": 1818,
+    "file": "cpc_202302_202302.csv"
+  },
+  {
+    "revision": "2023.01",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202301.zip",
+    "registered_at": "2026-09-08T11:02:09+09:00",
+    "rows": 2252,
+    "file": "cpc_202301_202301.csv"
+  },
+  {
+    "revision": "2022.08",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202208.zip",
+    "registered_at": "2026-09-08T11:02:12+09:00",
+    "rows": 2501,
+    "file": "cpc_202208_202208.csv"
+  },
+  {
+    "revision": "2022.05",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202205.zip",
+    "registered_at": "2026-09-08T11:02:14+09:00",
+    "rows": 3089,
+    "file": "cpc_202205_202205.csv"
+  },
+  {
+    "revision": "2022.02",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202202_93d2.zip",
+    "registered_at": "2026-09-08T11:02:17+09:00",
+    "rows": 1603,
+    "file": "cpc_202202_202202.csv"
+  },
+  {
+    "revision": "2022.01",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202201.zip",
+    "registered_at": "2026-09-08T11:02:20+09:00",
+    "rows": 6082,
+    "file": "cpc_202201_202201.csv"
+  },
+  {
+    "revision": "2021.08",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202108.zip",
+    "registered_at": "2026-09-08T11:02:22+09:00",
+    "rows": 2283,
+    "file": "cpc_202108_202108.csv"
+  },
+  {
+    "revision": "2021.05",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202105.zip",
+    "registered_at": "2026-09-08T11:02:25+09:00",
+    "rows": 2153,
+    "file": "cpc_202105_202105.csv"
+  },
+  {
+    "revision": "2021.02",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202102.zip",
+    "registered_at": "2026-09-08T11:02:27+09:00",
+    "rows": 417,
+    "file": "cpc_202102_202102.csv"
+  },
+  {
+    "revision": "2021.01",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202101.zip",
+    "registered_at": "2026-09-08T11:02:30+09:00",
+    "rows": 4507,
+    "file": "cpc_202101_202101.csv"
+  },
+  {
+    "revision": "2020.08",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202008.zip",
+    "registered_at": "2026-09-08T11:02:33+09:00",
+    "rows": 3564,
+    "file": "cpc_202008_202008.csv"
+  },
+  {
+    "revision": "2020.05",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202005.zip",
+    "registered_at": "2026-09-08T11:02:36+09:00",
+    "rows": 2628,
+    "file": "cpc_202005_202005.csv"
+  },
+  {
+    "revision": "2020.02",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202002.zip",
+    "registered_at": "2026-09-08T11:02:38+09:00",
+    "rows": 1600,
+    "file": "cpc_202002_202002.csv"
+  },
+  {
+    "revision": "2020.01",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation202001.zip",
+    "registered_at": "2026-09-08T11:02:41+09:00",
+    "rows": 3369,
+    "file": "cpc_202001_202001.csv"
+  },
+  {
+    "revision": "2019.08",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation201908.zip",
+    "registered_at": "2026-09-08T11:02:44+09:00",
+    "rows": 932,
+    "file": "cpc_201908_201908.csv"
+  },
+  {
+    "revision": "2017.01",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/CorrectedCompilation201701-201902.zip",
+    "registered_at": "2026-09-08T11:02:48+09:00",
+    "rows": 24692,
+    "file": "cpc_201701_201701.csv"
+  },
+  {
+    "revision": "2015.05",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/CorrectedCompilation201505-201611.zip",
+    "registered_at": "2026-09-08T11:02:53+09:00",
+    "rows": 38212,
+    "file": "cpc_201505_201505.csv"
+  },
+  {
+    "revision": "2014.10",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation201410-201504.zip",
+    "registered_at": "2026-09-08T11:02:58+09:00",
+    "rows": 70483,
+    "file": "cpc_201410_201410.csv"
+  },
+  {
+    "revision": "2014.06",
+    "source": "CPC?????",
+    "source_url": "https://link.epo.org/cpc/Compilation201406-201409.zip",
+    "registered_at": "2026-09-08T11:03:02+09:00",
+    "rows": 26636,
+    "file": "cpc_201406_201406.csv"
+  },
+  {
+    "revision": "2013.09",
+    "source": "CPC??Scheme XML??????",
+    "source_url": "https://link.epo.org/cpc/CPCSchemeXML201309.zip",
+    "registered_at": "2026-09-08T12:59:27+09:00",
+    "rows": 166,
+    "file": "cpc_scheme_201309_201309.csv"
+  },
+  {
+    "revision": "2013.11",
+    "source": "CPC??Scheme XML??????",
+    "source_url": "https://link.epo.org/cpc/CPCSchemeXML201311.zip",
+    "registered_at": "2026-09-08T12:59:38+09:00",
+    "rows": 5591,
+    "file": "cpc_scheme_201311_201311.csv"
+  },
+  {
+    "revision": "2013.12",
+    "source": "CPC??Scheme XML??????",
+    "source_url": "https://link.epo.org/cpc/CPCSchemeXML201312.zip",
+    "registered_at": "2026-09-08T12:59:50+09:00",
+    "rows": 7,
+    "file": "cpc_scheme_201312_201312.csv"
+  },
+  {
+    "revision": "2014.02",
+    "source": "CPC??Scheme XML??????",
+    "source_url": "https://link.epo.org/cpc/CPCSchemeXML201402.zip",
+    "registered_at": "2026-09-08T13:00:01+09:00",
+    "rows": 869,
+    "file": "cpc_scheme_201402_201402.csv"
+  }
+]
